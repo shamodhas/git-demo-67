@@ -1,0 +1,10 @@
+# Ignore folder
+config/
+
+# Ignore file
+secure.txt
+
+# Ignore files using extension
+# Ignore all txt files
+# *.txt 
+# *.log
